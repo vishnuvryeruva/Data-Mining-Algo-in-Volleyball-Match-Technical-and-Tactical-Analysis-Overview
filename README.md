@@ -11,3 +11,7 @@ Provides a detail explanation of the process and model used to analyze  Data Min
 See [article](https://medium.com/@vishnuvardhanreddy.yeruva/data-mining-algorithm-in-volleyball-match-technical-and-tactical-analysis-overview-fc61927c3e5)
 
 ## Slides
+
+[Slides](https://www.slideshare.net/VishnuVardhanReddyYe1/data-mining-algorithm-in-volleyball-match)
+
+## Video
