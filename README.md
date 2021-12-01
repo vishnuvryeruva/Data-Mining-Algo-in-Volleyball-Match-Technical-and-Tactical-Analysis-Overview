@@ -1,10 +1,10 @@
 # Data Mining Algo in Volleyball Match Technical and Tactical Analysis Overview
 
+![videocheck](https://user-images.githubusercontent.com/29178558/144113173-fc95377c-7341-4ada-913d-0449f79593e9.png) 
+
 ## Article
 
 Technical and Tactical Analysis
-
-![videocheck](https://user-images.githubusercontent.com/29178558/144113173-fc95377c-7341-4ada-913d-0449f79593e9.png) 
 
 Provides a detail explanation of the process and model used to analyze  Data Mining Algorithm in Volleyball Match by Yongfen Yang.
 
